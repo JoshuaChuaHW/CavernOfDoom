@@ -1,0 +1,20 @@
+Welcome to the Treasure Cavern of Doom!
+
+Used your Arrow Keys to move Up , Down , Left , Right. One tile
+at a time. If you wish to use [N],[S],[E],[W] to move. Press [Y]
+while on the map screen to change to legacy movement.
+
+Your job is to collect 5 artefacts from monsters, the final 
+artefact is guarded by the dragon. After recieveing the 5
+artefacts. You must then head to the entrance to trigger win the
+Win condition.
+
+You have limited moves and it is measured by the amount of fuel 
+you have left. Every time you move into a new map location, a 
+random amount of fuel is consumed. 
+
+Collect weapons and armor to protect yourself against the monsters
+in the CAVERN OF DOOM. These items boosts your stats. Provisions
+and potions also increase your health and indirectly, your attack 
+statistics. Press [T] while on the map to view your current player
+stats.

@@ -1,0 +1,15 @@
+#ifndef MONSTER_TYPE_ENUM_H
+#define MONSTER_TYPE_ENUM_H
+
+
+enum class MonsterType {
+	EMPTY,
+	GOBLIN,
+	HOBOGOBLIN,
+	OGRE,
+	TROLL,
+	DRAGON,
+
+
+};
+#endif //!MONSTER_TYPE_ENUM_H

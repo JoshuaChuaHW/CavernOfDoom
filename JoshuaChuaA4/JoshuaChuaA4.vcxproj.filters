@@ -1,0 +1,269 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\Items">
+      <UniqueIdentifier>{51c578cb-518a-4900-b929-690d311410d9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Items\Artefacts">
+      <UniqueIdentifier>{96d8d9d0-2619-45ab-9d79-74ed39453c88}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Items">
+      <UniqueIdentifier>{6eff00e2-ce9a-4449-9676-5e6581413b8b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Items\Artefacts">
+      <UniqueIdentifier>{d7df3742-e30c-4764-ae48-4301512dc747}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Art">
+      <UniqueIdentifier>{26fd5fae-6771-4e9a-aba0-04c35ab20619}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Art\Item_Art">
+      <UniqueIdentifier>{e7a04ed0-9773-47c6-97ac-f4e20ab4b640}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Art\Map_Art">
+      <UniqueIdentifier>{d2fa8fe8-5455-4e36-8fe7-2dadce3c2e7f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Art\Misc">
+      <UniqueIdentifier>{f43cd709-ca20-4653-9c91-5678ed0bea9a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Art\Monster_Art">
+      <UniqueIdentifier>{8c020ce2-1aa8-4b04-9722-fa905a43ffae}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="JoshuaChuaA4.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Boss.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Item.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Location.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Monster.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="window_Console.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Sword.cpp">
+      <Filter>Source Files\Items</Filter>
+    </ClCompile>
+    <ClCompile Include="Potion.cpp">
+      <Filter>Source Files\Items</Filter>
+    </ClCompile>
+    <ClCompile Include="Map.cpp">
+      <Filter>Source Files\Items</Filter>
+    </ClCompile>
+    <ClCompile Include="Lantern.cpp">
+      <Filter>Source Files\Items</Filter>
+    </ClCompile>
+    <ClCompile Include="Gold.cpp">
+      <Filter>Source Files\Items</Filter>
+    </ClCompile>
+    <ClCompile Include="Armour.cpp">
+      <Filter>Source Files\Items</Filter>
+    </ClCompile>
+    <ClCompile Include="BattleAxe.cpp">
+      <Filter>Source Files\Items\Artefacts</Filter>
+    </ClCompile>
+    <ClCompile Include="Balthazar.cpp">
+      <Filter>Source Files\Items\Artefacts</Filter>
+    </ClCompile>
+    <ClCompile Include="Chainmail.cpp">
+      <Filter>Source Files\Items\Artefacts</Filter>
+    </ClCompile>
+    <ClCompile Include="Elixir.cpp">
+      <Filter>Source Files\Items\Artefacts</Filter>
+    </ClCompile>
+    <ClCompile Include="SpeedBoots.cpp">
+      <Filter>Source Files\Items\Artefacts</Filter>
+    </ClCompile>
+    <ClCompile Include="Provisions.cpp">
+      <Filter>Source Files\Items</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Boss.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Item.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Location.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Monster.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="window_Console.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Armour.h">
+      <Filter>Header Files\Items</Filter>
+    </ClInclude>
+    <ClInclude Include="Gold.h">
+      <Filter>Header Files\Items</Filter>
+    </ClInclude>
+    <ClInclude Include="Lantern.h">
+      <Filter>Header Files\Items</Filter>
+    </ClInclude>
+    <ClInclude Include="Map.h">
+      <Filter>Header Files\Items</Filter>
+    </ClInclude>
+    <ClInclude Include="Potion.h">
+      <Filter>Header Files\Items</Filter>
+    </ClInclude>
+    <ClInclude Include="Provisions.h">
+      <Filter>Header Files\Items</Filter>
+    </ClInclude>
+    <ClInclude Include="Sword.h">
+      <Filter>Header Files\Items</Filter>
+    </ClInclude>
+    <ClInclude Include="Balthazar.h">
+      <Filter>Header Files\Items\Artefacts</Filter>
+    </ClInclude>
+    <ClInclude Include="BattleAxe.h">
+      <Filter>Header Files\Items\Artefacts</Filter>
+    </ClInclude>
+    <ClInclude Include="Chainmail.h">
+      <Filter>Header Files\Items\Artefacts</Filter>
+    </ClInclude>
+    <ClInclude Include="Elixir.h">
+      <Filter>Header Files\Items\Artefacts</Filter>
+    </ClInclude>
+    <ClInclude Include="SpeedBoots.h">
+      <Filter>Header Files\Items\Artefacts</Filter>
+    </ClInclude>
+    <ClInclude Include="Item_ID.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ItemTypeEnum.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MonsterTypeEnum.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="WIN32_VKCODE.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="Art\Item_Art\Tome.txt">
+      <Filter>Resource Files\Art\Item_Art</Filter>
+    </Text>
+    <Text Include="Art\Item_Art\Armor.txt">
+      <Filter>Resource Files\Art\Item_Art</Filter>
+    </Text>
+    <Text Include="Art\Item_Art\Bottle.txt">
+      <Filter>Resource Files\Art\Item_Art</Filter>
+    </Text>
+    <Text Include="Art\Item_Art\Lantern.txt">
+      <Filter>Resource Files\Art\Item_Art</Filter>
+    </Text>
+    <Text Include="Art\Item_Art\Sword.txt">
+      <Filter>Resource Files\Art\Item_Art</Filter>
+    </Text>
+    <Text Include="Art\Map_Art\Map_SNE.txt">
+      <Filter>Resource Files\Art\Map_Art</Filter>
+    </Text>
+    <Text Include="Art\Map_Art\Map_SNE_EMPTY.txt">
+      <Filter>Resource Files\Art\Map_Art</Filter>
+    </Text>
+    <Text Include="Art\Map_Art\Map_SNE_EMPTY_ITEM.txt">
+      <Filter>Resource Files\Art\Map_Art</Filter>
+    </Text>
+    <Text Include="Art\Map_Art\Map_SWE.txt">
+      <Filter>Resource Files\Art\Map_Art</Filter>
+    </Text>
+    <Text Include="Art\Map_Art\Map_SWE_EMPTY.txt">
+      <Filter>Resource Files\Art\Map_Art</Filter>
+    </Text>
+    <Text Include="Art\Map_Art\Map_SWE_EMPTY_ITEM.txt">
+      <Filter>Resource Files\Art\Map_Art</Filter>
+    </Text>
+    <Text Include="Art\Map_Art\Map_SWN.txt">
+      <Filter>Resource Files\Art\Map_Art</Filter>
+    </Text>
+    <Text Include="Art\Map_Art\Map_SWN_EMPTY.txt">
+      <Filter>Resource Files\Art\Map_Art</Filter>
+    </Text>
+    <Text Include="Art\Map_Art\Map_SWN_EMPTY_ITEM.txt">
+      <Filter>Resource Files\Art\Map_Art</Filter>
+    </Text>
+    <Text Include="Art\Map_Art\Map_WNE.txt">
+      <Filter>Resource Files\Art\Map_Art</Filter>
+    </Text>
+    <Text Include="Art\Map_Art\Map_WNE_EMPTY.txt">
+      <Filter>Resource Files\Art\Map_Art</Filter>
+    </Text>
+    <Text Include="Art\Map_Art\Map_WNE_EMPTY_ITEM.txt">
+      <Filter>Resource Files\Art\Map_Art</Filter>
+    </Text>
+    <Text Include="Art\Misc\Fight.txt">
+      <Filter>Resource Files\Art\Misc</Filter>
+    </Text>
+    <Text Include="Art\Misc\Gameover.txt">
+      <Filter>Resource Files\Art\Misc</Filter>
+    </Text>
+    <Text Include="Art\Misc\Information.txt">
+      <Filter>Resource Files\Art\Misc</Filter>
+    </Text>
+    <Text Include="Art\Misc\Inventory.txt">
+      <Filter>Resource Files\Art\Misc</Filter>
+    </Text>
+    <Text Include="Art\Misc\LoadingScreen.txt">
+      <Filter>Resource Files\Art\Misc</Filter>
+    </Text>
+    <Text Include="Art\Misc\locationDetails.txt">
+      <Filter>Resource Files\Art\Misc</Filter>
+    </Text>
+    <Text Include="Art\Misc\Loot.txt">
+      <Filter>Resource Files\Art\Misc</Filter>
+    </Text>
+    <Text Include="Art\Misc\MapShowcase.txt">
+      <Filter>Resource Files\Art\Misc</Filter>
+    </Text>
+    <Text Include="Art\Misc\Stats.txt">
+      <Filter>Resource Files\Art\Misc</Filter>
+    </Text>
+    <Text Include="Art\Misc\Victory.txt">
+      <Filter>Resource Files\Art\Misc</Filter>
+    </Text>
+    <Text Include="Art\Monster_Art\Dragon.txt">
+      <Filter>Resource Files\Art\Monster_Art</Filter>
+    </Text>
+    <Text Include="Art\Monster_Art\Goblin.txt">
+      <Filter>Resource Files\Art\Monster_Art</Filter>
+    </Text>
+    <Text Include="Art\Monster_Art\Hobogoblin.txt">
+      <Filter>Resource Files\Art\Monster_Art</Filter>
+    </Text>
+    <Text Include="Art\Monster_Art\Ogre.txt">
+      <Filter>Resource Files\Art\Monster_Art</Filter>
+    </Text>
+    <Text Include="Art\Monster_Art\Troll.txt">
+      <Filter>Resource Files\Art\Monster_Art</Filter>
+    </Text>
+  </ItemGroup>
+</Project>
